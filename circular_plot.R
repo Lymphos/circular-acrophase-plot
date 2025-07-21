@@ -11,7 +11,7 @@ graphTitle <- "Saliva Cortisol"
 # Color for data points and arrow;
 colorGraph <- "blue"
 # Show arrow for circular mean or not (Assign TRUE or FALSE);
-circMeanArrowBool <- FALSE
+circMeanArrowBool <- TRUE
 # Show/Create circular mean and variance legend at the bottom left of graph (Assign TRUE or FALSE):
 legendCircMeanVar <- TRUE
 ######### Hour labels on the graph #############################################
