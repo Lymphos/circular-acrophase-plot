@@ -5,8 +5,8 @@ This R script visualizes time-of-day data (acrophase) using circular statistics.
 Files Included
 
 - `circular_plot.R` – Main R script to generate the circular plot  
-- `example_hormone_acrophase_data.csv` – Sample input data file  
-- `output_plot.png` – Example output plot (optional)  
+- `example_hormone_acrophase_data.csv`
+- `output_plot.jpeg`
 
 ---
 
