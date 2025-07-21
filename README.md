@@ -3,14 +3,11 @@
 This R script visualizes time-of-day data (acrophase) using circular statistics. It plots a 24-hour circular graph of hormone rhythms (e.g., cortisol) and calculates the circular mean and variance of the dataset.
 
 Files Included
+R Script: `circular_plot.R`
+Example data: `example_hormone_acrophase_data.csv`
+Example output file: `output_plot.jpeg`
 
-- `circular_plot.R` – Main R script to generate the circular plot  
-- `example_hormone_acrophase_data.csv`
-- `output_plot.jpeg`
-
----
-
-## 🚀 How to Use
+How to Use
 
 1. **Install required R packages:**
 
