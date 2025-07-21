@@ -41,7 +41,7 @@ If you would like to suggest improvements, feel free to submit a pull request or
 
 Related Resources
 
-- [circular R package documentation]([https://cran.r-project.org/web/packages/circular/](https://cran.r-project.org/web/packages/circular/circular.pdf)).
+- [circular R package documentation]([https://cran.r-project.org/web/packages/circular/](https://cran.r-project.org/web/packages/circular/circular.pdf).
 - [protocols.io version of this workflow](https://www.protocols.io/) 
 
 
