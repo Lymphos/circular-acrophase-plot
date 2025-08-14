@@ -26,7 +26,7 @@ x_pos_label <- 0.8 * cos(label_angles)
 y_pos_label <- 0.8 * sin(label_angles)
 
 ########## Creating the Graph ##################################################
-paramToGraph <- circularData[columnParameter]
+paramToGraph <- circularData[[columnParameter]]
 
 paramToGraph.circ <- circular(paramToGraph, units = "hours", template = "clock24")
 paramToGraph.circ.mean <- mean(paramToGraph.circ, na.rm = T)
